@@ -4,7 +4,7 @@
 /*Variables css*/
 /*Colores*/
 :root {
-  -first-color: #6f0811;
+  --first-color: #6f0811;
   --black-color: #000;
   --white-color: #FFF;
 }
